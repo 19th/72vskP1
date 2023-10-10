@@ -1,4 +1,4 @@
-# MakeCode link https://makecode.com/_UDmAYyekRg9Y
+# MakeCode https://makecode.com/_UDmAYyekRg9Y
 
 def clear(size):
     # koordinātes norāda kastes diagonāles malas no kurai līdz kurai visus blokus aizvietot ar gaisu 
